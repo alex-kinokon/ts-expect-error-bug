@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "noEmit": true
+  }
+}
